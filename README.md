@@ -6,7 +6,7 @@ Minimum Requirements
 
 You must use React for all client-side code
 
-You must use MongoDB as the database
+You must use MongoDB as the database ✔
 
 You must use Node/Express as the server-side technology
 
